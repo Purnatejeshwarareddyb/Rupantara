@@ -432,4 +432,4 @@ If you use RUPANTARA in your research, please cite:
 
 ---
 
-Last Updated: December 14, 2024
+Last Updated: December 14, 2025
